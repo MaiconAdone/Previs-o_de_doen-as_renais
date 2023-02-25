@@ -1,5 +1,5 @@
 
-# Este é um de Sistema de Previsão de Doências Renais Crônicas desenvolvido como Projeto da Jornada Ciência de Dados
+# Este é um de Sistema de Previsão de Doências Renais Crônicas
 
 
 ## Fonte de Dados - Dataset
@@ -29,7 +29,3 @@ Para rodar o sistema, basta digitar o comando abaixo no terminal do VSCode
 
 ```  python app.py (tecle enter)
 ```
-
-## tamojunto  
-Eduardo Rocha
-www.cienciadosdados.com
